@@ -2,7 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+#files
+sample_submission.csv
+test.csv
+train.csv
 # C extensions
 *.so
 
